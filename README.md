@@ -17,3 +17,9 @@ make build
 ```bash
 .build/disk_usage
 ```
+
+## Usage
+
+```
+disk_usage [path (default: /)]
+```
